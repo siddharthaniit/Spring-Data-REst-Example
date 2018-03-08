@@ -1,0 +1,7 @@
+com/example/demo/repository/SupplierRepository.class
+com/example/demo/repository/CategoryRepository.class
+com/example/demo/RegisterRepository.class
+com/example/demo/RestExampleApplication.class
+com/example/demo/model/Supplier.class
+com/example/demo/model/Categories.class
+com/example/demo/model/Register.class
